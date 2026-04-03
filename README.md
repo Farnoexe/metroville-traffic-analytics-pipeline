@@ -101,15 +101,15 @@ A Power BI dashboard was created to visualize traffic patterns and complement th
 
 ### Dashboard Preview
 
-![Total Traffic](dashboard/01-total-traffic.png)
+![Total Traffic](Dashboard/01-total-traffic.png)
 
-![Traffic by Hour](dashboard/02-traffic-by-hour.png)
+![Traffic by Hour](Dashboard/02-traffic-by-hour.png)
 
-![Traffic by Direction](dashboard/03-traffic-by-direction.png)
+![Traffic by Direction](Dashboard/03-traffic-by-direction.png)
 
-![Traffic by Hour and Direction](dashboard/04-traffic-volume-by-hour-and-direction.png)
+![Traffic by Hour and Direction](Dashboard/04-traffic-volume-by-hour-and-direction.png)
 
-![Weekday vs Weekend Traffic](dashboard/05-traffic-weekday-vs-weekend.png)
+![Weekday vs Weekend Traffic](Dashboard/05-traffic-weekday-vs-weekend.png)
 
 ### Notes
 This dashboard demonstrates the ability to:
